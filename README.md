@@ -10,9 +10,9 @@ Clone this repository or download the code zip.
 
 Then:
 
-`sh
+```sh
 ./install.sh
-`
+```
 
 And reboot your computer, enjoy your new GRUB theme! :)
 
